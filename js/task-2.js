@@ -5,7 +5,7 @@ function makeArray(firstArray, secondArray, maxLength) {
           } else {
         return arr;    
        }
-        }
+      }
       
     
      
